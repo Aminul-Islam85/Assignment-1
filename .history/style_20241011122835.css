@@ -85,9 +85,6 @@ section {
 .content-wrapper {
     display: flex;
     justify-content: space-between;
-    padding: 30px;
-    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
-    border-radius: 5px;
 }
 
 .content-merge {
@@ -97,9 +94,6 @@ section {
 .wrapper {
     display: flex;
     justify-content: space-between;
-    padding: 30px;
-    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
-    border-radius: 5px;
 }
 
 
@@ -199,9 +193,9 @@ footer {
     width: 100%; 
   }  
   
-  
-  .social-icons img {
-    margin-left: 10px; 
-    height: 24px; 
+  .social-icons {
+    display: flex; 
+    align-items: center; 
   }
+
   
