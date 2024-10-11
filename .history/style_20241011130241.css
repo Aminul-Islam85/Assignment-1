@@ -45,8 +45,7 @@ header {
 
 .headline-2 {
     margin-right: 50px;
-    background-color: gainsboro;
-    border-radius: 5px;
+    background-color: #ff4b5c;
 }
 
 
@@ -67,7 +66,7 @@ p {
 
 header a {
     display: inline-block;
-    background: black;
+    background: #ff4b5c;
     color: white;
     padding: 10px 20px;
     margin-top: 10px;

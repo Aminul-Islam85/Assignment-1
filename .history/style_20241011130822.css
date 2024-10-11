@@ -120,11 +120,12 @@ section p {
 
 section a {
     display: inline-block;
-    background: #333;
+    background: ;
     color: white;
     padding: 8px 16px;
     text-decoration: none;
     border-radius: 5px;
+    color: #333;
 
 }
 

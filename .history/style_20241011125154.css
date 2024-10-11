@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    width: 90%;
+    width: 75%;
     margin: 0 auto;
 }
 
@@ -25,6 +25,8 @@ header {
      
     
 }
+
+
 
 .section-description {
     font-size: 18px;
@@ -45,8 +47,6 @@ header {
 
 .headline-2 {
     margin-right: 50px;
-    background-color: gainsboro;
-    border-radius: 5px;
 }
 
 
@@ -67,7 +67,7 @@ p {
 
 header a {
     display: inline-block;
-    background: black;
+    background: #ff4b5c;
     color: white;
     padding: 10px 20px;
     margin-top: 10px;
@@ -194,8 +194,7 @@ video {
 footer {
     width: 100%; 
     padding: 10px 20px; 
-    background-color: gainsboro; 
-    border-radius: 5px;
+    background-color: #f5f5f5; 
   }
   
   .footer-section {

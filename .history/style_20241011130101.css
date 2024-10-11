@@ -1,9 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -45,8 +39,6 @@ header {
 
 .headline-2 {
     margin-right: 50px;
-    background-color: gainsboro;
-    border-radius: 5px;
 }
 
 
@@ -67,7 +59,7 @@ p {
 
 header a {
     display: inline-block;
-    background: black;
+    background: #ff4b5c;
     color: white;
     padding: 10px 20px;
     margin-top: 10px;
